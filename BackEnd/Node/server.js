@@ -1,8 +1,4 @@
-/*
-Project:5
-Tech Stack: React + Rest API + Node.js + MySQL
-App Code: RRANM24072022
-*/
+
 
 const express = require("express");
 const cors = require("cors");
