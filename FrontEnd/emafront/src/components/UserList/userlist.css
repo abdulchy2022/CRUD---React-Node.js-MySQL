@@ -1,0 +1,35 @@
+
+table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+.add_b {
+
+  margin-top: 10px;
+  
+}
+
+td, th {
+  border: 1px solid #dddddd;
+  text-align: left;
+  padding: 8px;
+}
+
+tr:nth-child(even) {
+  background-color: #dddddd;
+}
+
+.container {
+            justify-content: center;
+            padding-top: 100px;
+            padding-left: 30px;
+            padding-right: 30px;
+            
+}
+
+.list {
+  margin-top: 150px;
+  margin-left: 50px;
+}
