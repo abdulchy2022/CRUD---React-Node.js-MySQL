@@ -8,9 +8,9 @@ const mysql = require("mysql2");
 
 
 const db = mysql.createPool({
-      host: "192.168.0.16",
+      host: "x.x.x.x",
       user: "root",
-      password: "345Pcsoft",
+      password: "xxxxx",
       database: "crud_contact"
 
 });
